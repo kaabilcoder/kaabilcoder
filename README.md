@@ -4,7 +4,7 @@
 
 <br>
 
-<h2><img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img>About Me</h2>
+## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img>About Me
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">

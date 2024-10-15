@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Hey!+I+am+Saurabh+Kumar+Sahu;Welcome+to+My+Profile!" alt="Title"></div></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Hey!+I+am+Saurabh+Kumar+Sahu;Welcome+to+My+Profile!" alt="Title"></div></img>
 </div>
 
 <br>

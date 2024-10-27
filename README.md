@@ -36,6 +36,12 @@
   </a>
 </div>
 
+<h3 align="center">
+  
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</h3>
+
 
 <!---
 kaabilcoder/kaabilcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

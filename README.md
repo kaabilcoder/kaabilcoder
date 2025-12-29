@@ -10,7 +10,7 @@
 <td width="50%" align="left">
 
 - 🔭 I’m currently working on `Fullstack` Development.
-- 🌱 I’m currently learning `Web3`, `Fullstack` and `LLMs`.
+- 🌱 I’m currently learning `Fullstack`, `DevOps`, and `LLMs`.
 - 👯 I’m looking to collaborate with Web 3 and Fullstack Developers.
 - 🤔 I’m looking for help with Web-3 projects.
 - 💬 Ping me about **Fullstack Development**

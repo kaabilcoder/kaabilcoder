@@ -11,8 +11,8 @@
 
 - 🔭 I’m currently working on `Fullstack` Development.
 - 🌱 I’m currently learning `Fullstack`, `DevOps`, and `LLMs`.
-- 👯 I’m looking to collaborate with Web 3 and Fullstack Developers.
-- 🤔 I’m looking for help with Web-3 projects.
+- 👯 I’m looking to collaborate with Fullstack and AI Developers.
+- 🤔 I’m looking for help with Full Stack AI projects.
 - 💬 Ping me about **Fullstack Development**
 
 </td>
